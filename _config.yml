@@ -58,7 +58,7 @@ lines: # You can add HTML Tags in the Text
   - text: "These are the webpages of Greg Lever."
   - text: "Opinions expressed are mine."
 
-me-img: "/img/author_2.jpg"
+me-img: "/img/author.png"
 
 ##############################
 # Color the browser elements #
