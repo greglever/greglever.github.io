@@ -41,7 +41,8 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
+# background-img: "../img/intro-bg.jpg"
+background-img: "../img/boss-fight-free-high-quality-stock-images-photos-photography-code-computer-notebook-screen.jpg"
 
 ##############################
 # Dynamic Text on the Header #
