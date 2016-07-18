@@ -121,8 +121,11 @@ events:
     date: "February 2015 - April 2015"
     description: "Postdoctoral Fellow at The ASI"
   - image: "/img/mit_logo.jpg"
-    date: "March 2015 - February 2015"
+    date: "March 2014 - February 2015"
     description: "Postdoctoral Research Associate at MIT"
+  - image: "/img/cambrige_logo.jpg"
+    date: "September 2010 - March 2014"
+    description: "PhD Student at Cambridge"
 
 # First image of the Timeline
 
