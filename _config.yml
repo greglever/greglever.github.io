@@ -114,12 +114,24 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  # - image: "/img/timeline/spidertocat.png"
+  #   date: "September 2013 - Today"
+  #   description: "Saving the neighborhood!"
+  # - image: "/img/timeline/baracktocat.jpg"
+  #   date: "September 2007 - August 2013"
+  #   description: "Started coding"
+  - image: "/img/arkera_logo.png"
+    date: "December 2015 - Today"
+    description: "Data Scientist (Data Science Developer) @ Arkera"
+  - image: "/img/stylect_logo.jpeg"
+    date: "April 2015 - December 2015"
+    description: "Senior Data Scientist @ Stylect"
+    - image: "/img/asi_logo.png"
+    date: "February 2015 - April 2015"
+    description: "Postdoctoral Fellow @ The ASI"
+  - image: "/img/mit_logo.jpg"
+    date: "March 2015 - February 2015"
+    description: "Postdoctoral Research Associate @ MIT"
 
 # First image of the Timeline
 
