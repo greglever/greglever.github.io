@@ -12,7 +12,7 @@ url: "https://greglever.github.io"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /personal-jekyll-theme
+baseurl: /greglever.github.io
 
 # Google tracking id
 
@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Greg Lever"
+title: "{ Greg Lever }"
+description: "Blog and website of Greg Lever, blogging mainly for tech and data science. Opinions expressed are mine."
+keywords: "greg, lever"
 favicon: "/img/favicon.ico"
 
 ################
