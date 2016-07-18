@@ -60,7 +60,8 @@ lines: # You can add HTML Tags in the Text
   - text: "Opinions expressed are mine."
 
 # me-img: "/img/jetpacktocat.png"
-me-img: "/img/12314552_972147442865146_2895735738711748867_o.jpg"
+me-img: "img/author_2.jpg"
+# me-img: "/img/12314552_972147442865146_2895735738711748867_o.jpg"
 
 ##############################
 # Color the browser elements #
