@@ -11,7 +11,7 @@ url: "https://greglever.github.io"
 # then add in the baseurl here, like this: "/repository-name"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
-
+as
 baseurl: /greglever.github.io
 
 # Google tracking id
@@ -117,7 +117,7 @@ events:
   - image: "/img/stylect_logo.jpg"
     date: "April 2015 - December 2015"
     description: "Senior Data Scientist at Stylect"
-  - image: "/img/asi_logo.png"
+  - image: "/img/asi_logo_attempt.png"
     date: "February 2015 - April 2015"
     description: "Postdoctoral Fellow at The ASI"
   - image: "/img/mit_logo.jpg"
