@@ -113,11 +113,11 @@ syntax-highlight: True
 events:
   - image: "/img/arkera_logo.png"
     date: "December 2015 - Today"
-    description: 'Data Scientist (Data Science Developer) at <a href="www.projectarkera.com" target="_blank"> Arkera </a>'
+    description: 'Data Scientist (Data Science Developer) at <a href="https://www.projectarkera.com" target="_blank"> Arkera </a>'
     url: "www.projectarkera.com"
   - image: "/img/stylect_logo.jpg"
     date: "April 2015 - December 2015"
-    description: "Senior Data Scientist at Stylect"
+    description: 'Senior Data Scientist <br> at <a href="https://www.stylect.com/gb/" target="_blank"> Stylect </a>'
   - image: "/img/asi_logo_attempt.png"
     date: "February 2015 - April 2015"
     description: "Postdoctoral Fellow at The ASI"
