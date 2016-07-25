@@ -11,7 +11,7 @@ url: "https://greglever.github.io"
 # then add in the baseurl here, like this: "/repository-name"
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
-as
+# as
 baseurl: /greglever.github.io
 
 # Google tracking id
