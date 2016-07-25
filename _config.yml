@@ -117,7 +117,7 @@ events:
     url: "www.projectarkera.com"
   - image: "/img/stylect_logo.jpg"
     date: "April 2015 - December 2015"
-    description: 'Senior Data Scientist <br> at <a href="https://www.stylect.com/gb/" target="_blank"> Stylect </a>'
+    description: 'Senior Data Scientist at <a href="https://www.stylect.com/gb/" target="_blank"> Stylect </a>'
   - image: "/img/asi_logo_attempt.png"
     date: "February 2015 - April 2015"
     description: "Postdoctoral Fellow at The ASI"
