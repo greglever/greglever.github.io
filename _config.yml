@@ -113,7 +113,8 @@ syntax-highlight: True
 events:
   - image: "/img/arkera_logo.png"
     date: "December 2015 - Today"
-    description: "Data Scientist (Data Science Developer) at "<a href="www.projectarkera.com">"Arkera"</a>
+    description: "Data Scientist (Data Science Developer) at Arkera"
+    url: "www.projectarkera.com"
   - image: "/img/stylect_logo.jpg"
     date: "April 2015 - December 2015"
     description: "Senior Data Scientist at Stylect"
@@ -161,11 +162,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://github.com/greglever"
 
 ############
 # 404 page #
