@@ -113,7 +113,7 @@ syntax-highlight: True
 events:
   - image: "/img/arkera_logo.png"
     date: "December 2015 - Today"
-    description: 'Data Scientist (Data Science Developer) at <a href="www.projectarkera.com"> Arkera </a>'
+    description: 'Data Scientist (Data Science Developer) at <a href="www.projectarkera.com" target="_blank"> Arkera </a>'
     url: "www.projectarkera.com"
   - image: "/img/stylect_logo.jpg"
     date: "April 2015 - December 2015"
