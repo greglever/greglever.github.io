@@ -126,10 +126,10 @@ events:
     description: '<a href="https://engineeringphds.mit.edu/profile/greg-lever" target="_blank"> Postdoctoral Research Associate</a> at <a href="http://web.mit.edu/" target="_blank">MIT</a>'
   - image: "/img/cam-square.jpg"
     date: "September 2010 - March 2014"
-    description: "PhD (Computational Biophysics) at Cambridge"  
+    description: '<a href="http://www.springer.com/gp/book/9783319193502" target="_blank">PhD (Computational Biophysics)</a> at <a href="http://www.tcm.phy.cam.ac.uk/~gl319/" target="_blank">Cambridge</a>'  
   - image: "/img/ucl-square.png"
     date: "September 2006 - July 2010"
-    description: "Masters (Theoretical Physics) at UCL"
+    description: 'Masters with First Class Honours (Theoretical Physics) at UCL'
 
 # First image of the Timeline
 
@@ -150,7 +150,7 @@ email: "greglever@cantab.net"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "Greg Lever is a Data Scientist and Software Developer with a passion for continual and lifelong learning."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/gregl.png"
 
 ##################
 # Social Buttons #
