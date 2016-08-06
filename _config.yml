@@ -123,7 +123,7 @@ events:
     description: '<a href="https://www.theasi.co/fellowship/alumni/" target="_blank">Postdoctoral Fellow</a> at <a href="https://www.theasi.co" target="_blank">The ASI</a>'
   - image: "/img/mit-logo-square.jpg"
     date: "March 2014 - February 2015"
-    description: "Postdoctoral Research Associate at MIT"
+    description: '<a href="https://engineeringphds.mit.edu/profile/greg-lever" target="_blank"> Postdoctoral Research Associate</a> at <a href="http://web.mit.edu/" target="_blank">MIT</a>'
   - image: "/img/cam_1.gif"
     date: "September 2010 - March 2014"
     description: "PhD (Computational Biophysics) at Cambridge"  
