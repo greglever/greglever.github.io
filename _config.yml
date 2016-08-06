@@ -124,7 +124,7 @@ events:
   - image: "/img/mit-logo-square.jpg"
     date: "March 2014 - February 2015"
     description: '<a href="https://engineeringphds.mit.edu/profile/greg-lever" target="_blank"> Postdoctoral Research Associate</a> at <a href="http://web.mit.edu/" target="_blank">MIT</a>'
-  - image: "/img/cam_1.gif"
+  - image: "/img/cam-square.jpg"
     date: "September 2010 - March 2014"
     description: "PhD (Computational Biophysics) at Cambridge"  
   - image: "/img/timeline/ucl_.png"
