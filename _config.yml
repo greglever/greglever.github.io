@@ -127,7 +127,7 @@ events:
   - image: "/img/cam-square.jpg"
     date: "September 2010 - March 2014"
     description: "PhD (Computational Biophysics) at Cambridge"  
-  - image: "/img/timeline/ucl_.png"
+  - image: "/img/timeline/ucl-square.png"
     date: "September 2006 - July 2010"
     description: "Masters (Theoretical Physics) at UCL"
 
