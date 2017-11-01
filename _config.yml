@@ -111,10 +111,14 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/gel_logo.png"
+    date: "April 2016 - Present"
+    description: 'Software Engineer at <a href="https://www.genomicsengland.co.uk/" target="_blank"> Genomics England </a>'
+    url: "www.genomicsengland.co.uk"
   - image: "/img/arkera_logo.png"
-    date: "December 2015 - Today"
-    description: 'Data Scientist (Data Science Developer) at <a href="https://www.projectarkera.com" target="_blank"> Arkera </a>'
-    url: "www.projectarkera.com"
+    date: "December 2015 - April 2016"
+    description: 'Data Scientist (Data Science Developer) at <a href="http://www.arkera.ai/" target="_blank"> Arkera </a>'
+    url: "http://www.arkera.ai/"
   - image: "/img/stylect_logo.jpg"
     date: "April 2015 - December 2015"
     description: 'Senior Data Scientist at <a href="https://www.stylect.com/gb/" target="_blank"> Stylect </a>'
@@ -123,7 +127,7 @@ events:
     description: '<a href="https://www.theasi.co/fellowship/alumni/" target="_blank">Postdoctoral Fellow</a> at <a href="https://www.theasi.co" target="_blank">The ASI</a>'
   - image: "/img/mit-logo-square.jpg"
     date: "March 2014 - February 2015"
-    description: '<a href="https://engineeringphds.mit.edu/profile/greg-lever" target="_blank"> Postdoctoral Research Associate</a> at <a href="http://web.mit.edu/" target="_blank">MIT</a>'
+    description: '<a href="http://hjkgrp.mit.edu/content/greg-lever" target="_blank"> Postdoctoral Research Associate</a> at <a href="http://web.mit.edu/" target="_blank">MIT</a>'
   - image: "/img/cam-square.jpg"
     date: "September 2010 - March 2014"
     description: '<a href="http://www.springer.com/gp/book/9783319193502" target="_blank">PhD (Computational Biophysics)</a> at <a href="http://www.tcm.phy.cam.ac.uk/~gl319/" target="_blank">Cambridge</a>'  
